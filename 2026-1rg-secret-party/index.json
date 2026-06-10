@@ -16,5 +16,11 @@
     "secret": "piza",
     "consent": true,
     "timestamp": "2026-06-10T02:03:46Z"
+  },
+  {
+    "name": "blah",
+    "secret": "yeah",
+    "consent": true,
+    "timestamp": "2026-06-10T02:04:16Z"
   }
 ]
