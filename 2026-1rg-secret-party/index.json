@@ -28,5 +28,11 @@
     "secret": "breathe deeply. meditate. 10 min a day",
     "consent": true,
     "timestamp": "2026-06-10T05:20:28Z"
+  },
+  {
+    "name": "bom",
+    "secret": "you just gotta glump around!",
+    "consent": true,
+    "timestamp": "2026-06-10T05:30:01Z"
   }
 ]
