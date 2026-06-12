@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "jeese",
+    "secret": "testing",
+    "ending": 10,
+    "consent": true,
+    "timestamp": "2026-06-12T22:10:43Z"
+  }
+]
