@@ -48,5 +48,10 @@
     "secret": "farts",
     "consent": true,
     "timestamp": "2026-06-11T02:40:04Z"
+  },
+  {
+    "secret": "test message",
+    "consent": true,
+    "timestamp": "2026-06-12T13:24:36Z"
   }
 ]
