@@ -19,5 +19,12 @@
     "ending": 12,
     "consent": true,
     "timestamp": "2026-06-12T18:32:06Z"
+  },
+  {
+    "name": "fr",
+    "secret": "dsfdf",
+    "ending": 25,
+    "consent": true,
+    "timestamp": "2026-06-12T18:33:24Z"
   }
 ]
