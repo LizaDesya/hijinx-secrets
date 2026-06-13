@@ -40,5 +40,12 @@
     "ending": 1,
     "consent": true,
     "timestamp": "2026-06-13T01:23:59Z"
+  },
+  {
+    "name": "CIPHERSPORK",
+    "secret": "I'm an empty shell inhabited by a worm. I have complex notions of what reality is. They are likely false. Please help me.",
+    "ending": 11,
+    "consent": true,
+    "timestamp": "2026-06-13T01:34:16Z"
   }
 ]
