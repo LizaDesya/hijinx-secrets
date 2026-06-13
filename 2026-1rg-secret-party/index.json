@@ -33,5 +33,12 @@
     "ending": 23,
     "consent": true,
     "timestamp": "2026-06-13T01:21:47Z"
+  },
+  {
+    "name": "cg",
+    "secret": "fuck openai",
+    "ending": 1,
+    "consent": true,
+    "timestamp": "2026-06-13T01:23:59Z"
   }
 ]
